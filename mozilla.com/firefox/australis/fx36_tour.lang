@@ -21,7 +21,7 @@ Fă turul pentru a vedea ce este nou
 
 # “Firefox Hello” is the product name and should not be localized
 ;Firefox Hello is the easiest way to connect with friends and family for free over video.
-Firefox Hello este cea mai ușoară cale de a te conecta gratuit cu prietenii și familia la chaturi video.
+Firefox Hello este cea mai ușoară cale de a te conecta gratuit cu prietenii și familia pe chaturi video.
 
 
 # %s will be replaced by an image of Telefonica's logo.
@@ -53,11 +53,11 @@ Descoperă Firefox Hello
 
 # “Hello” is the product name and should not be localized
 ;Meet Hello
-Descoperă Hello
+Fă cunoștință cu Hello
 
 
 ;The easiest way to connect for free over video with anyone, anywhere
-Cea mai ușoară cale de a te conecta gratuit la chaturi video cu oricine, oriunde
+Cea mai ușoară cale de a te conecta gratuit pe chaturi video cu oricine, oriunde
 
 
 ;Show me how
@@ -69,7 +69,7 @@ Arată-mi cum
 
 
 ;You can have free video conversations right from your Firefox browser.
-Poți purta conversații video gratuite direct din navigatorul Firefox.
+Poți purta conversații video gratuite direct din browserul Firefox.
 
 
 # This is the label that represents tour step one of two
@@ -101,7 +101,7 @@ Fără cont, autentificare sau descărcări necesare
 
 
 ;Simply start a conversation and share a link
-Pur și simplu începe o conversație și împărtășește o legătură
+Pur și simplu începe o conversație și împărtășește un link
 
 
 ;Invite anyone, anywhere to join
@@ -154,11 +154,11 @@ Simplu ca „bună ziua”
 
 
 ;Start a video conversation with a single click
-Începe o conversație video printr-un clic
+Începe o conversație video cu un singur clic
 
 
 ;Invite a friend to talk by sending them a link
-Invită un prieten la discuție trimițându-i o legătură
+Invită un prieten la discuție trimițându-i un link
 
 
 ;Anyone can join — with or without Firefox
@@ -245,7 +245,7 @@ Conectează-te la chaturi video cu oricine, oriunde
 
 
 ;It’s free! No account, sign-in or downloads required
-Este gratuit! Fără cont, autentificare sau descărcări
+Este gratuit! Fără cont, autentificare sau descărcări necesare
 
 
 ;Choose how you want to search
@@ -258,7 +258,7 @@ Alege cum vrei să cauți
 
 # <br> tag below used for formatting only.
 ;Introducing a smarter <br>way to search
-Introducem un mod <br>mai inteligent de căutare
+Vă prezentăm un mod <br>mai inteligent de căutare
 
 
 ;Search suggestions appear as you type
@@ -266,7 +266,7 @@ Sugestiile de căutare apar pe măsură ce tastezi
 
 
 ;Choose the right site for every search
-Alege saitul potrivit pentru fiecare căutare
+Alege site-ul potrivit pentru fiecare căutare
 
 
 ;Use the star to create bookmarks
@@ -279,7 +279,7 @@ Folosește steluța pentru a crea semne de carte
 
 # <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
-Saiturile tale favorite<br> - mai aproape ca niciodată
+Site-urile tale favorite<br> mai aproape ca niciodată
 
 
 ;Add and view bookmarks from the same spot
@@ -287,6 +287,6 @@ Adaugă și vezi semnele de carte din același loc
 
 
 ;Save sites with a single click
-Salvează saituri cu un singur clic
+Salvează site-uri cu un singur clic
 
 

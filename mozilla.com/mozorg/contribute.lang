@@ -152,7 +152,7 @@ Ne pare rău, dar am întâmpinat o problemă de sistem. Te rugăm să încerci 
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
-Cineva de la Mozilla te va contacta în scurt timp cu informații despre cum te poți implica. În timp ce aștepți, uittă-te prin oportunitățile de voluntariat disponibile mai jos.
+Cineva de la Mozilla te va contacta în scurt timp cu informații despre cum te poți implica. În timp ce aștepți, uită-te prin oportunitățile de voluntariat disponibile mai jos.
 
 
 ;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
@@ -186,16 +186,16 @@ Testarea pentru asigurarea calității este una dintre cele mai simple moduri de
 
 
 ;<a href="%(oneanddone_url)s">Pick a task from One and Done</a> to get started, work on <a href="%(desktopfx_url)s">Desktop Firefox</a>, <a href="%(websites_url)s">test Mozilla web sites</a>, <a href="%(testday_url)s">join us for a Test Day</a>, or <a href="%(qateams_url)s">learn more about other testing opportunities</a>.
-<a href="%(oneanddone_url)s">Alegeți o sarcină din Una și Gata</a> pentru a începe, lucrați cu <a href="%(desktopfx_url)s">Firefox pentru desktop</a>, <a href="%(websites_url)s">testați saiturile web Mozilla</a>, <a href="%(testday_url)s">alăturați-vă nouă pentru o zi de testare</a> sau <a href="%(qateams_url)s">aflați mai multe despre alte oportunități de testare</a>.
+<a href="%(oneanddone_url)s">Alegeți o sarcină din Una și Gata</a> pentru a începe, lucrați cu <a href="%(desktopfx_url)s">Firefox pentru desktop</a>, <a href="%(websites_url)s">testați site-urile Mozilla</a>, <a href="%(testday_url)s">alăturați-vă nouă pentru o zi de testare</a> sau <a href="%(qateams_url)s">aflați mai multe despre alte oportunități de testare</a>.
 
 
 # Coding
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">Dezvoltatorii pot ajuta</a> Mozilla adăugând noi funcționalități, făcând tehnologia noastră mai compactă și mai rapidă și făcând procesul de dezvoltare mai ușor pentru ceilalți. Spune-ne <a href="%(what_url)s">limbajul tău de programare preferat</a> și vom găsi un proiect pentru tine.
+<a href="%(dev_intro_url)s">Dezvoltatorii pot ajuta</a> Mozilla adăugând noi funcții, făcând tehnologia noastră mai compactă și mai rapidă și făcând procesul de dezvoltare mai ușor pentru ceilalți. Spune-ne <a href="%(what_url)s">limbajul tău de programare preferat</a> și vom găsi un proiect pentru tine.
 
 
 ;Spread the Word
-Dă de veste
+Răspândește vestea
 
 
 ;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
@@ -222,7 +222,7 @@ Paginile noastre web sunt deschise dezvoltatorilor web. <a href="%(webdev_url)s"
 
 # Add-ons
 ;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
-Suplimentele sunt cele care fac Firefox cel mai extensibil și personalizabil navigator disponibil. Începeți <a href="%(addons_url)s">să dezvoltați un supliment</a> și <a href="%(addons_wiki)s">aflați mai multe despre diferitele moduri în care puteți contribui</a>.
+Suplimentele sunt cele care fac Firefox cel mai extensibil și personalizabil browser disponibil. Începe <a href="%(addons_url)s">să dezvolți un supliment</a> și <a href="%(addons_wiki)s">află mai multe despre diferitele moduri în care poți contribui</a>.
 
 
 # Visual design
@@ -357,7 +357,7 @@ Twitter {ok}
 
 
 ;This video requires a browser with support for open video or the <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
-Acest videoclip necesită un navigator cu suport pentru formatul video deschis sau pentru <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
+Acest videoclip necesită un browser cu suport pentru formatul video deschis sau pentru <a href="http://www.adobe.com/go/getflashplayer">Adobe Flash Player</a>.
 
 
 # Old string, will be removed when all locales have the new text
